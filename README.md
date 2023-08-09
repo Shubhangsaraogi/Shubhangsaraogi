@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **s.saraogi1902@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1BjRku-D0Qa7k4aN-wdIcgj3yBErjGsiS/view?usp=sharing](https://drive.google.com/file/d/1BjRku-D0Qa7k4aN-wdIcgj3yBErjGsiS/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1dTa45zX6GWI-Gd2suinj91myKBV9wt_q/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
