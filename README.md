@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shubhang Saraogi</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-- 🔭 I’m currently working on [Rameshwaram](https://github.com/Shubhangsaraogi/Rameshwaram)
+- 🔭 I’m currently working on [Topic connect](https://github.com/Shubhangsaraogi/Topic-connect)
 
 - 🌱 I’m currently learning **Data Structures and Algorithms, ReactJs**
 
